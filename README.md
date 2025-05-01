@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AscencioSIUU
+- 💡 Main account: [erneram](https://github.com/erneram)
 - 👀 I’m interested in creating new stuff every day
 - 🌱 I’m currently on 3rd year of CS
 - 📫 How to reach me asc23009@uvg.edu.gt
